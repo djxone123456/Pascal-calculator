@@ -27,7 +27,7 @@ end;
 
 procedure Save_docx;
 begin
-  assign(fd,cmd+'.TXT'); rewrite(fd);
+  assign(fd,cmd); rewrite(fd);
   writeln(fd,'*****PASCAL CALCULATOR 1.2*****');
   for y:=3 to a+2 do
     begin
