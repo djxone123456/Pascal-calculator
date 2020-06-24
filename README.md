@@ -1,4 +1,4 @@
-# Pascal-calculator
+# Pascal-calculator(Excel)
 The pascal calculator is written in Pascal and it looks like Excel Microsoft (maybe :))
 
 Forum: https://www.facebook.com/PascalCalcProject
