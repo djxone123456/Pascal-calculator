@@ -1,5 +1,5 @@
 # Pascal-calculator(Excel)
-The pascal calculator is written in Pascal and it looks like Excel Microsoft (maybe :))
+The pascal calculator is written in Pascal and it looks like Excel Microsoft (maybe :D)
 
 Forum: https://www.facebook.com/PascalCalcProject
 
