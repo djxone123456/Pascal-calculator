@@ -758,6 +758,8 @@ BEGIN {MAIN}
    if (chon='E') or (chon='e') or (chon='2') then
     english
   else
-    KeyPressed;
+    begin
+      KeyPressed;
+    end;
   readln
 END.
